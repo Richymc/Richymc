@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy Ricardo 👋</h1>
+<h1 align="center">Hi, I'm Ricardo 👋</h1>
 </div>
 
 ## Sobre mi
@@ -8,6 +8,9 @@
 - 📲 Android developer
   
 <br>
+
+<div align="center" ><img height="40" width="40" src="https://cdn.simpleicons.org/springboot/#6DB33F"/> <img heigth="40" width="40" src="https://cdn.simpleicons.org/spring/#6DB33F"/> <img heigth="40" width="40" src="https://cdn.simpleicons.org/androidstudio/#3DDC84"/>
+</div>
 
 
 ### ⚙️ &nbsp;GitHub
