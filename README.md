@@ -1,8 +1,7 @@
 <div align="center">
-<h1 align="center">Hi, I'm Ricardo 👋 </h1>
+<h2 align="center">Hi, Welcome to my page! 😎 </h2>
 </div>
-
-## Sobre mi
+I'm Ricardo, Java Backend Developer from México 🌵
 
 - ☕ Java Backend Developer
 - 📲 Android developer
