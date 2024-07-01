@@ -1,5 +1,5 @@
 <div align="center">
-<h2 align="center">Hi, Welcome to my page! 😎 </h2>
+<h1 align="center">Hi, Welcome to my page! 😎 </h1>
 </div>
 I'm Ricardo, Java Backend Developer from México 🌵
 
